@@ -33,4 +33,24 @@ Security: Encryption, authentication, firewalls, and common threats (e.g., malwa
 
 Wireless Networking: Wi-Fi, Bluetooth, and mobile networks.
 
-# Topic 
+# Topic EX: Additional cool stuff only for the coolest HL students
+
+**(Topic 5)Abstract Data Structures:**
+
+-> Advanced structures: Linked lists, trees (binary, binary search trees)
+
+**(Topic 6)Resource management**
+
+-> Operating system roles: Process scheduling, memory management (paging, segmentation), and virtualization.
+
+**(Topic 7)Control**
+
+-> Feedback loops: Sensors, actuators, and controllers in systems (e.g., thermostats, autonomous vehicles).
+
+**Cache Stored Hyperspace Libraries(CSHL) Extensions**
+
+-> Databases: Relational databases, SQL, normalization, and database management systems.
+
+-> Web Science: Web architecture, HTML/CSS, client-server models.
+
+-> Object-Oriented Programming (OOP): Classes, objects, encapsulation, inheritance, and polymorphism
